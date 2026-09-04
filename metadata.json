@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Remix Remix MineIntel AI - SIH26023 Mining Document Intelligence",
+  "description": "AI-Powered Geological, Mining and Other Reporting Solution for CMPDI/CIL Subsidiaries built for SIH26023.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
